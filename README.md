@@ -19,3 +19,9 @@ There are multiple cloud quests available. This is a gamified way to learn, simi
 - [What is a transformer in AI?](https://aws.amazon.com/what-is/transformers-in-artificial-intelligence/)
 - [Explore AWS Capabilities by region](https://builder.aws.com/build/capabilities/explore)
 - [What are Embeddings in Machine Learning?](https://aws.amazon.com/what-is/embeddings-in-machine-learning/)
+- [Bedrock doc on prompt design](https://docs.aws.amazon.com/bedrock/latest/userguide/design-a-prompt.html)
+- [What is Prompt Engineering?](https://aws.amazon.com/what-is/prompt-engineering/)
+- [Bedrock's documentation on prompt engineering concepts](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-engineering-guidelines.html). Pay attention to the links to provider-specific ones.
+- [Implementing advanced prompt engineering with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/implementing-advanced-prompt-engineering-with-amazon-bedrock/)
+- [REACT: SYNERGIZING REASONING AND ACTING IN LANGUAGE MODELS](https://arxiv.org/pdf/2210.03629)
+- [Construct and store reusable prompts with Prompt management in Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-management.html)

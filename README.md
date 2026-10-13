@@ -18,3 +18,4 @@ There are multiple cloud quests available. This is a gamified way to learn, simi
 - [Attention is all you need paper](https://arxiv.org/pdf/1706.03762)
 - [What is a transformer in AI?](https://aws.amazon.com/what-is/transformers-in-artificial-intelligence/)
 - [Explore AWS Capabilities by region](https://builder.aws.com/build/capabilities/explore)
+- [What are Embeddings in Machine Learning?](https://aws.amazon.com/what-is/embeddings-in-machine-learning/)

@@ -13,3 +13,8 @@ There are multiple cloud quests available. This is a gamified way to learn, simi
 - [Neural network zoo](https://www.asimovinstitute.org/neural-network-zoo/)
 - [Built-in algorithms and pretrained models in Amazon SageMaker](https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html)
 - [What is deep learning?](https://aws.amazon.com/what-is/deep-learning/)
+- [What is Machine Learning?](https://aws.amazon.com/what-is/machine-learning/)
+- [What is Generative AI?](https://aws.amazon.com/what-is/generative-ai/)
+- [Attention is all you need paper](https://arxiv.org/pdf/1706.03762)
+- [What is a transformer in AI?](https://aws.amazon.com/what-is/transformers-in-artificial-intelligence/)
+- [Explore AWS Capabilities by region](https://builder.aws.com/build/capabilities/explore)

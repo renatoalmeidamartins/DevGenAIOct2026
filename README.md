@@ -33,3 +33,4 @@ There are multiple cloud quests available. This is a gamified way to learn, simi
 - [Effective context engineering for AI agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)
 - [Durable functions or Step Functions](https://docs.aws.amazon.com/lambda/latest/dg/durable-step-functions.html)
 - [Conceptual discussion about memory in Langchain docs](https://docs.langchain.com/oss/python/concepts/memory)
+- [Embeddings playground](https://projector.tensorflow.org/)

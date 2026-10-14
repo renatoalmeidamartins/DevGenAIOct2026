@@ -73,3 +73,17 @@ There are multiple cloud quests available. This is a gamified way to learn, simi
 - [Model Context Protocol - MCP](https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro)
 - [A2A repo](https://github.com/a2aproject/a2a)
 - [Announcing the Agent2Agent Protocol (A2A)](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)
+- [Introducing Strands Agents, an Open Source AI Agents SDK](https://aws.amazon.com/blogs/opensource/introducing-strands-agents-an-open-source-ai-agents-sdk/)
+- [Bedrock Flows samples](https://github.com/aws-samples/amazon-bedrock-flows-samples)
+- [Open source MCP servers for AWS](https://github.com/awslabs/mcp)
+- Agentcore
+    - [Amazon Bedrock AgentCore payments is now generally available: Enabling agents to transact safely and autonomously at scale](https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-payments-is-now-generally-available-enabling-agents-to-transact-safely-and-autonomously-at-scale/)
+    - [The future of managing agents at scale: AWS Agent Registry now in preview](https://aws.amazon.com/blogs/machine-learning/the-future-of-managing-agents-at-scale-aws-agent-registry-now-in-preview/)
+    - [Agentcore SDK](https://github.com/aws/bedrock-agentcore-sdk-python)
+    - [Deployment strategies](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/runtime-get-started-code-deploy.html), notice that zip deployment is the preferred way
+    - [Identity provider setup and configuration](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/identity-idps.html), for both inbound and outbound auth
+    - [Search for tools in your AgentCore gateway with a natural language query](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/gateway-using-mcp-semantic-search.html)
+    - [Long-temr memory extraction prompts in Agentcore](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/built-in-strategies.html)
+    - [Policy in Amazon Bedrock AgentCore: Control Agent Interactions](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/policy.html)
+    - [https://github.com/aws/agentcore-cli](Agentcore CLI)
+    - [Get to your first working agent in minutes: Announcing new features in Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/get-to-your-first-working-agent-in-minutes-announcing-new-features-in-amazon-bedrock-agentcore/)

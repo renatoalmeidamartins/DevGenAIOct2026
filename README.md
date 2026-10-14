@@ -87,3 +87,4 @@ There are multiple cloud quests available. This is a gamified way to learn, simi
     - [Policy in Amazon Bedrock AgentCore: Control Agent Interactions](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/policy.html)
     - [https://github.com/aws/agentcore-cli](Agentcore CLI)
     - [Get to your first working agent in minutes: Announcing new features in Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/get-to-your-first-working-agent-in-minutes-announcing-new-features-in-amazon-bedrock-agentcore/)
+    - [Agentcore Samples github repo](https://github.com/awslabs/agentcore-samples/tree/main)

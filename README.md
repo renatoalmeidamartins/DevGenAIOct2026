@@ -47,3 +47,19 @@ There are multiple cloud quests available. This is a gamified way to learn, simi
 - [Effective context engineering for AI agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)
 - [Durable functions or Step Functions](https://docs.aws.amazon.com/lambda/latest/dg/durable-step-functions.html)
 - [Conceptual discussion about memory in Langchain docs](https://docs.langchain.com/oss/python/concepts/memory)
+- Langchain
+    - [Messages abstractions](https://docs.langchain.com/oss/python/langchain/messages)
+    - [prompts](https://reference.langchain.com/python/langchain-core/prompts)
+    - [chains](https://reference.langchain.com/python/langchain-classic/chains/base/Chain)
+    - [runnables](https://reference.langchain.com/python/langchain-core/runnables)
+    - [RunnableWithMessageHistory](https://reference.langchain.com/python/langchain-core/runnables/history/RunnableWithMessageHistory), one example of a runnable
+    - [DynamoDBChatMessageHistory](https://reference.langchain.com/python/langchain-community/chat_message_histories/dynamodb/DynamoDBChatMessageHistory)
+- [Built-in metric evaluator prompts for model-as-a-judge evaluation jobs](https://docs.aws.amazon.com/bedrock/latest/userguide/model-evaluation-type-judge-prompt.html)
+- [Use prompt datasets for model evaluation in Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/model-evaluation-prompt-datasets.html)
+- [RAGAS built-in metrics](https://docs.ragas.io/en/stable/concepts/metrics/available_metrics/)
+- [Binary Model Insights](https://docs.aws.amazon.com/machine-learning/latest/dg/binary-model-insights.html), this is documentation from a long-gone service (Amazon Machine learning), but it is a nice summary of precision, accuracy, and others.
+- [Evaluate models or RAG systems using Amazon Bedrock Evaluations – Now generally available](https://aws.amazon.com/blogs/machine-learning/evaluate-models-or-rag-systems-using-amazon-bedrock-evaluations-now-generally-available/)
+- [Understanding intelligent prompt routing in Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-routing.html)
+- [Use Amazon Bedrock Intelligent Prompt Routing for cost and latency benefits](https://aws.amazon.com/blogs/machine-learning/use-amazon-bedrock-intelligent-prompt-routing-for-cost-and-latency-benefits/)
+- [Optimize model inference for latency](https://docs.aws.amazon.com/bedrock/latest/userguide/latency-optimized-inference.html)
+- [Responsible AI](https://aws.amazon.com/ai/responsible-ai/)

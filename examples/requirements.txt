@@ -1,3 +1,5 @@
 langchain
 langchain-aws
 boto3
+strands-agents-tools
+strands-agents

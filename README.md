@@ -63,3 +63,13 @@ There are multiple cloud quests available. This is a gamified way to learn, simi
 - [Use Amazon Bedrock Intelligent Prompt Routing for cost and latency benefits](https://aws.amazon.com/blogs/machine-learning/use-amazon-bedrock-intelligent-prompt-routing-for-cost-and-latency-benefits/)
 - [Optimize model inference for latency](https://docs.aws.amazon.com/bedrock/latest/userguide/latency-optimized-inference.html)
 - [Responsible AI](https://aws.amazon.com/ai/responsible-ai/)
+- [FuzzyAI Fuzzer](https://github.com/cyberark/fuzzyai): The FuzzyAI Fuzzer is a powerful tool for automated LLM fuzzing. It is designed to help developers and security researchers identify jailbreaks and mitigate potential security vulnerabilities in their LLM APIs.
+- [AWS re:Invent 2024 - Mitigating the OWASP Top 10 for LLMs: Build secure gen AI applications (AIM283)](https://www.youtube.com/watch?v=ewxCqXYoz4A)
+- [Minimize AI hallucinations and deliver up to 99% verification accuracy with Automated Reasoning checks: Now available](https://aws.amazon.com/blogs/aws/minimize-ai-hallucinations-and-deliver-up-to-99-verification-accuracy-with-automated-reasoning-checks-now-available/)
+- [Get started with Nova Act](https://docs.aws.amazon.com/nova-act/latest/userguide/getting-started.html)
+- [CrewAI Quickstart](https://docs.crewai.com/v1.15.28/en/quickstart)
+- [Langchain Agents](https://docs.langchain.com/oss/python/langchain/agents)
+- [Building a LangGraph Agent from Scratch](https://towardsdatascience.com/building-a-langgraph-agent-from-scratch/)
+- [Model Context Protocol - MCP](https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro)
+- [A2A repo](https://github.com/a2aproject/a2a)
+- [Announcing the Agent2Agent Protocol (A2A)](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)
